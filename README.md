@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siva9664/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Siva9664/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Siva9664/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Siva9664/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Siva9664/leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -23,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Siva9664/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Siva9664/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->

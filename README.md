@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Siva9664/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Siva9664/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siva9664/leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siva9664/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Siva9664/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Siva9664/leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Siva9664/leetcode/tree/master/0455-assign-cookies) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Siva9664/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siva9664/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Siva9664/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siva9664/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Siva9664/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Siva9664/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Siva9664/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Siva9664/leetcode/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siva9664/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siva9664/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siva9664/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Siva9664/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Siva9664/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Siva9664/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Siva9664/leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Siva9664/leetcode/tree/master/0455-assign-cookies) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Siva9664/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Siva9664/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Siva9664/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Siva9664/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Siva9664/leetcode/tree/master/0389-find-the-difference) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siva9664/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siva9664/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Siva9664/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Siva9664/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Siva9664/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Siva9664/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Siva9664/leetcode/tree/master/0344-reverse-string) |

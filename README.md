@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siva9664/leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Siva9664/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Siva9664/leetcode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Siva9664/leetcode/tree/master/0455-assign-cookies) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Siva9664/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Siva9664/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Siva9664/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Siva9664/leetcode/tree/master/0389-find-the-difference) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Siva9664/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Siva9664/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Siva9664/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy

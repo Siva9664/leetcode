@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Siva9664/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siva9664/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siva9664/leetcode/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/Siva9664/leetcode/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Siva9664/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siva9664/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siva9664/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Siva9664/leetcode/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siva9664/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siva9664/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Siva9664/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

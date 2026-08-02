@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Siva9664/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Siva9664/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Siva9664/leetcode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siva9664/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Siva9664/leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Siva9664/leetcode/tree/master/0771-jewels-and-stones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siva9664/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Siva9664/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Siva9664/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Siva9664/leetcode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siva9664/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Siva9664/leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Siva9664/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Siva9664/leetcode/tree/master/0771-jewels-and-stones) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siva9664/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siva9664/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Siva9664/leetcode/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siva9664/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siva9664/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |

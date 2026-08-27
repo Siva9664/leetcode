@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Siva9664/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Siva9664/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Siva9664/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Siva9664/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siva9664/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Siva9664/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Siva9664/leetcode/tree/master/0567-permutation-in-string) |
@@ -192,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Siva9664/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Siva9664/leetcode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Siva9664/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->

@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Siva9664/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Siva9664/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Siva9664/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2235-add-two-integers](https://github.com/Siva9664/leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |

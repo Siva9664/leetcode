@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Siva9664/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Siva9664/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/Siva9664/leetcode/tree/master/3110-score-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/Siva9664/leetcode/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Siva9664/leetcode/tree/master/2469-convert-the-temperature) |
 | [2582-pass-the-pillow](https://github.com/Siva9664/leetcode/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Siva9664/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3894-traffic-signal-color](https://github.com/Siva9664/leetcode/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/Siva9664/leetcode/tree/master/3908-valid-digit-number) |
 ## Binary Search
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Siva9664/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2582-pass-the-pillow](https://github.com/Siva9664/leetcode/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Siva9664/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3894-traffic-signal-color](https://github.com/Siva9664/leetcode/tree/master/3894-traffic-signal-color) |
 ## Counting Sort
 |  |
 | ------- |

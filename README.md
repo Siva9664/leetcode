@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Siva9664/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/Siva9664/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Siva9664/leetcode/tree/master/2469-convert-the-temperature) |
+| [2582-pass-the-pillow](https://github.com/Siva9664/leetcode/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Siva9664/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Binary Search
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Siva9664/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2582-pass-the-pillow](https://github.com/Siva9664/leetcode/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Siva9664/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Counting Sort
 |  |

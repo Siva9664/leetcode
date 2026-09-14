@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Siva9664/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Siva9664/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/Siva9664/leetcode/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/Siva9664/leetcode/tree/master/2469-convert-the-temperature) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Siva9664/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Binary Search
 |  |
